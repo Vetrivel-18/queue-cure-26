@@ -1,0 +1,6 @@
+{
+  "name": "Queue Cure '26",
+  "description": "Real-time clinic queue management system replacing paper tokens with a modern digital experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
